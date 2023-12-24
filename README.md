@@ -1,2 +1,2 @@
-# textbook-homework
- Collection of homework for various computing textbooks I have worked through.
+# textbook-work
+ Collection of homework for various computing textbooks
