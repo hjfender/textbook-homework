@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="java-nature-of-code/target/classes" path="java-nature-of-code/src/main/java">
+	<classpathentry kind="src" output="nature-of-code/target/classes" path="nature-of-code/src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="java-nature-of-code/target/classes" path="java-nature-of-code/src/main/resources">
+	<classpathentry excluding="**" kind="src" output="nature-of-code/target/classes" path="nature-of-code/src/main/resources">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" output="java-nature-of-code/target/test-classes" path="java-nature-of-code/src/test/java">
+	<classpathentry kind="src" output="nature-of-code/target/test-classes" path="nature-of-code/src/test/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="java-nature-of-code/target/test-classes" path="java-nature-of-code/src/test/resources">
+	<classpathentry excluding="**" kind="src" output="nature-of-code/target/test-classes" path="nature-of-code/src/test/resources">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -33,5 +33,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="output" path="java-nature-of-code/target/classes"/>
+	<classpathentry kind="output" path="nature-of-code/target/classes"/>
 </classpath>
